@@ -1,2 +1,2 @@
-# Portfolio
-This is a personal and responsive portfolio website.
+# Portfolio Website
+This is a responsive portfolio website.
