@@ -4,7 +4,7 @@ body {
 
 .topnav {
     overflow: hidden;
-    margin-left: 750px;
+    margin-left: 850px;
     margin-top: 20px;
     font-weight: bold;
 }
@@ -476,7 +476,7 @@ li {
     font-size: 30px;
     display:flex; 
     justify-content:space-around; 
-    margin-left:280px; 
+    margin-left:50px; 
     color:rgb(238, 237, 138); 
     margin-top:50px;
 }
@@ -490,7 +490,7 @@ li {
     overflow: hidden;
     margin-top: 18px;
     font-weight: bold;
-    margin-right: 400px;
+    margin-right: 465px;
 }
 .topnav2 a {
     float: right;
